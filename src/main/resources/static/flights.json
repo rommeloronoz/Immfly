@@ -1,0 +1,77 @@
+{
+    "test1": {
+        "ident": "IBB999",
+        "faFlightID": "IBB653-1581399936-airline-0136",
+        "airline": "IBB",
+        "airlineIata": "NT",
+        "flightNumber": "999",
+        "tailNumber": "EC-MYT",
+        "type": "Form_Airline",
+        "codeShares": "IBE123",
+        "blocked": false,
+        "diverted": false,
+        "cancelled": false,
+        "origin": {
+            "code": "GCXO",
+            "city": "Tenerife",
+            "alternateIdent": "TFN",
+            "airportName": "Tenerife North (Los Rodeos)"
+        },
+        "destination": {
+            "code": "GCGM",
+            "city": "La Gomera",
+            "alternateIdent": "GMZ",
+            "airportName": "La Gomera"
+        }
+    },
+    "test2": {
+        "ident": "IBB888",
+        "faFlightID": "IBB653-1581399936-airline-0136",
+        "airline": "IBB",
+        "airlineIata": "NT",
+        "flightNumber": "888",
+        "tailNumber": "EC-ABC",
+        "type": "Form_Airline",
+        "codeShares": "IBE123",
+        "blocked": false,
+        "diverted": false,
+        "cancelled": false,
+        "origin": {
+            "code": "GCXO",
+            "city": "Tenerife",
+            "alternateIdent": "TFN",
+            "airportName": "Tenerife North (Los Rodeos)"
+        },
+        "destination": {
+            "code": "GCGM",
+            "city": "La Gomera",
+            "alternateIdent": "GMZ",
+            "airportName": "La Gomera"
+        }
+    },
+    "test3": {
+        "ident": "IBB111",
+        "faFlightID": "IBB653-1581399936-airline-0136",
+        "airline": "IBB",
+        "airlineIata": "NT",
+        "flightNumber": "111",
+        "tailNumber": "EC-ABC",
+        "type": "Form_Airline",
+        "codeShares": "IBE123",
+        "blocked": false,
+        "diverted": false,
+        "cancelled": false,
+        "origin": {
+            "code": "GCXO",
+            "city": "Tenerife",
+            "alternateIdent": "TFN",
+            "airportName": "Tenerife North (Los Rodeos)"
+        },
+        "destination": {
+            "code": "GCGM",
+            "city": "La Gomera",
+            "alternateIdent": "GMZ",
+            "airportName": "La Gomera"
+        }
+    }
+}

@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.rommel.Immfly"},{"l":"com.rommel.Immfly.config"},{"l":"com.rommel.Immfly.controllers"},{"l":"com.rommel.Immfly.models"},{"l":"com.rommel.Immfly.repositories"},{"l":"com.rommel.Immfly.services"}];updateSearchResults();
