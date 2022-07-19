@@ -48,11 +48,7 @@ The API only have one endpoint that could receive 1 or 2 params:
 You can request for all flights related to a tail number 
 Or can request all information about a flight by passing the tail number and the flight number.
 
-You can use any of this tails numbers to make the requests:
-EC-MYT
-EC-MKI
-EC-LUK
-
+In the folder Immfly/immfly-redis you will find a JSON file with all the entries that are in the redis ddbb. You can consult any of these tail numbers or flight numbers.
 
  
 
