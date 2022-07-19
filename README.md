@@ -24,3 +24,14 @@ In linux should be:
 In any case you can check it by doploying the container one time and using the command docker-inspect to check the section
 "Mounts" where you will see the path and then stop and delete it to redo the docker-compose up.
 
+---------------------------------------
+
+Api access
+
+All request should be made by an authorized user, I created a simple user with rights to request
+
+User: admin
+Pass: test1234
+
+You need to pass user/pass as Basic Auth params in the headers in order to be authorized, once the 
+cookie is created (In Postman, for example) you don't need to pass it again.
