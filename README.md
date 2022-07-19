@@ -35,3 +35,24 @@ Pass: test1234
 
 You need to pass user/pass as Basic Auth params in the headers in order to be authorized, once the 
 cookie is created (In Postman, for example) you don't need to pass it again.
+
+
+---------------------------------------
+
+Api requests
+
+The API only have one endpoint that could receive 1 or 2 params:
+
+/v1/flight-information/{tail-number}/{flight-number}) 
+
+You can request for all flights related to a tail number 
+Or can request all information about a flight by passing the tail number and the flight number.
+
+You can use any of this tails numbers to make the requests:
+EC-MYT
+EC-MKI
+EC-LUK
+
+
+ 
+
