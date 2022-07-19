@@ -1,0 +1,177 @@
+{
+    "c0a49a61-5608-47e7-b561-c9bee7430bf0": {
+        "ident": "IBB999",
+        "faFlightID": "IBB999-1581399936-airline-0136",
+        "airline": "IBB",
+        "airlineIata": "NT",
+        "flightNumber": "999",
+        "tailNumber": "EC-MYT",
+        "type": "Form_Airline",
+        "codeShares": "IBE123",
+        "blocked": false,
+        "diverted": false,
+        "cancelled": false,
+        "origin": {
+            "code": "GCXO",
+            "city": "Tenerife",
+            "alternateIdent": "TFN",
+            "airportName": "Tenerife North (Los Rodeos)"
+        },
+        "destination": {
+            "code": "GCGM",
+            "city": "La Gomera",
+            "alternateIdent": "GMZ",
+            "airportName": "La Gomera"
+        }
+    },
+    "06dda122-6599-4d40-b716-52f1768388b7": {
+        "ident": "IBB888",
+        "faFlightID": "IBB888-1581399936-airline-0136",
+        "airline": "IBB",
+        "airlineIata": "NT",
+        "flightNumber": "888",
+        "tailNumber": "EC-LUK",
+        "type": "Form_Airline",
+        "codeShares": "IBE123",
+        "blocked": false,
+        "diverted": false,
+        "cancelled": false,
+        "origin": {
+            "code": "LEMH",
+            "city": "Menorca",
+            "alternateIdent": "MAH",
+            "airportName": "Aeropuerto de Menorca"
+        },
+        "destination": {
+            "code": "LEIB",
+            "city": "Ibiza",
+            "alternateIdent": "IBZ",
+            "airportName": "Aeropuerto Internacional de Ibiza"
+        }
+    },
+    "d2b3dcbf-9ecb-453a-b247-72e18adbe9ee": {
+        "ident": "IBB777",
+        "faFlightID": "IBB653-1581399936-airline-0136",
+        "airline": "IBB",
+        "airlineIata": "NT",
+        "flightNumber": "777",
+        "tailNumber": "EC-LXK",
+        "type": "Form_Airline",
+        "codeShares": "IBE123",
+        "blocked": false,
+        "diverted": false,
+        "cancelled": false,
+        "origin": {
+            "code": "GCXO",
+            "city": "Tenerife",
+            "alternateIdent": "TFN",
+            "airportName": "Tenerife North (Los Rodeos)"
+        },
+        "destination": {
+            "code": "LEMH",
+            "city": "Menorca",
+            "alternateIdent": "MAH",
+            "airportName": "Aeropuerto de Menorca"
+        }
+    },
+    "2d6b0197-5cce-47b7-805d-0a3ce5a4f160": {
+        "ident": "IBB555",
+        "faFlightID": "IBB555-1581399936-airline-0136",
+        "airline": "IBB",
+        "airlineIata": "NT",
+        "flightNumber": "555",
+        "tailNumber": "EC-MYT",
+        "type": "Form_Airline",
+        "codeShares": "IBE123",
+        "blocked": false,
+        "diverted": false,
+        "cancelled": false,
+        "origin": {
+            "code": "GCXO",
+            "city": "Tenerife",
+            "alternateIdent": "TFN",
+            "airportName": "Tenerife North (Los Rodeos)"
+        },
+        "destination": {
+            "code": "LEMD",
+            "city": "Madrid",
+            "alternateIdent": "MAD",
+            "airportName": "Aeropuerto Internacional Adolfo Suárez Madrid-Barajas"
+        }
+    },
+    "f1fd7952-321a-493d-9d7d-506bcceb0266": {
+        "ident": "IBB444",
+        "faFlightID": "IBB444-1581399936-airline-0136",
+        "airline": "IBB",
+        "airlineIata": "NT",
+        "flightNumber": "444",
+        "tailNumber": "EC-MKI",
+        "type": "Form_Airline",
+        "codeShares": "IBE123",
+        "blocked": false,
+        "diverted": false,
+        "cancelled": false,
+        "origin": {
+            "code": "LEMD",
+            "city": "Madrid",
+            "alternateIdent": "MAD",
+            "airportName": "Aeropuerto Internacional Adolfo Suárez Madrid-Barajas"
+        },
+        "destination": {
+            "code": "LEBL",
+            "city": "Barcelona",
+            "alternateIdent": "BCN",
+            "airportName": "Aeropuerto Josep Tarradellas Barcelona-El Prat"
+        }
+    },
+    "f531b632-161d-434c-a9d0-fa897b922c01": {
+        "ident": "IBB333",
+        "faFlightID": "IBB333-1581399936-airline-0136",
+        "airline": "IBB",
+        "airlineIata": "NT",
+        "flightNumber": "333",
+        "tailNumber": "EC-MJA",
+        "type": "Form_Airline",
+        "codeShares": "IBE123",
+        "blocked": false,
+        "diverted": false,
+        "cancelled": false,
+        "origin": {
+            "code": "GCXO",
+            "city": "Tenerife",
+            "alternateIdent": "TFN",
+            "airportName": "Tenerife North (Los Rodeos)"
+        },
+        "destination": {
+            "code": "LEBL",
+            "city": "Barcelona",
+            "alternateIdent": "BCN",
+            "airportName": "Aeropuerto Josep Tarradellas Barcelona-El Prat"
+        }
+    },
+    "a9e69857-d20b-448c-8f29-c4ccb900ea99": {
+        "ident": "IBB222",
+        "faFlightID": "IBB222-1581399936-airline-0136",
+        "airline": "IBB",
+        "airlineIata": "NT",
+        "flightNumber": "222",
+        "tailNumber": "EC-MJA",
+        "type": "Form_Airline",
+        "codeShares": "IBE123",
+        "blocked": false,
+        "diverted": false,
+        "cancelled": false,
+        "origin": {
+            "code": "LEMD",
+            "city": "Madrid",
+            "alternateIdent": "MAD",
+            "airportName": "Aeropuerto Internacional Adolfo Suárez Madrid-Barajas"
+        },
+        "destination": {
+            "code": "GCGM",
+            "city": "La Gomera",
+            "alternateIdent": "GMZ",
+            "airportName": "La Gomera"
+        }
+    }
+}
